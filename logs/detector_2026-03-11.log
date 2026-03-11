@@ -1,0 +1,270 @@
+2026-03-11 19:34:01 | INFO     | utils:52 | Using CPU.
+2026-03-11 19:34:01 | WARNING  | dataset_loader:130 | Class 'human' has only 0 images (min=20).
+2026-03-11 19:34:01 | WARNING  | dataset_loader:130 | Class 'apple' has only 0 images (min=20).
+2026-03-11 19:34:01 | WARNING  | dataset_loader:130 | Class 'banana' has only 0 images (min=20).
+2026-03-11 19:34:01 | WARNING  | dataset_loader:130 | Class 'orange' has only 0 images (min=20).
+2026-03-11 19:34:01 | WARNING  | dataset_loader:130 | Class 'cat' has only 0 images (min=20).
+2026-03-11 19:34:01 | WARNING  | dataset_loader:130 | Class 'dog' has only 0 images (min=20).
+2026-03-11 19:34:01 | WARNING  | dataset_loader:130 | Class 'bottle' has only 0 images (min=20).
+2026-03-11 19:34:01 | WARNING  | dataset_loader:130 | Class 'phone' has only 0 images (min=20).
+2026-03-11 19:34:01 | WARNING  | dataset_loader:130 | Class 'keyboard' has only 0 images (min=20).
+2026-03-11 19:34:01 | WARNING  | dataset_loader:130 | Class 'laptop' has only 0 images (min=20).
+2026-03-11 19:34:32 | INFO     | camera:42 | Opening camera index=0 @ 1280×720 30fps
+2026-03-11 19:34:33 | INFO     | camera:60 | Camera opened: 1280×720 @ 30fps
+2026-03-11 19:34:33 | INFO     | dataset_capture:64 | Existing image counts: human=0, apple=0, banana=0, orange=0, cat=0, dog=0, bottle=0, phone=0, keyboard=0, laptop=0
+2026-03-11 19:34:33 | INFO     | dataset_capture:144 | Dataset capture started. Press S to capture, C to change class, Q to quit.
+2026-03-11 19:34:36 | DEBUG    | camera:68 | Camera released.
+2026-03-11 19:43:08 | INFO     | camera:42 | Opening camera index=0 @ 1280×720 30fps
+2026-03-11 19:43:08 | INFO     | camera:60 | Camera opened: 1280×720 @ 30fps
+2026-03-11 19:43:08 | INFO     | dataset_capture:67 | Existing image counts: human=0, apple=0, banana=0, orange=0, cat=0, dog=0, bottle=0, phone=0, keyboard=0, laptop=0
+2026-03-11 19:43:08 | INFO     | dataset_capture:147 | Dataset capture started. Press S to capture, C to change class, Q to quit.
+2026-03-11 19:46:33 | INFO     | camera:42 | Opening camera index=0 @ 1280×720 30fps
+2026-03-11 19:46:33 | INFO     | camera:60 | Camera opened: 1280×720 @ 30fps
+2026-03-11 19:46:33 | INFO     | dataset_capture:67 | Existing image counts: human=0, apple=0, banana=0, orange=0, cat=0, dog=0, bottle=0, phone=0, keyboard=0, laptop=0
+2026-03-11 19:46:33 | INFO     | dataset_capture:147 | Dataset capture started. Press S to capture, C to change class, Q to quit.
+2026-03-11 19:49:01 | INFO     | camera:42 | Opening camera index=0 @ 1280×720 30fps
+2026-03-11 19:49:02 | INFO     | camera:60 | Camera opened: 1280×720 @ 30fps
+2026-03-11 19:49:02 | INFO     | dataset_capture:67 | Existing image counts: human=0, apple=0, banana=0, orange=0, cat=0, dog=0, bottle=0, phone=0, keyboard=0, laptop=0
+2026-03-11 19:49:02 | INFO     | dataset_capture:147 | Dataset capture started. Press S to capture, C to change class, Q to quit.
+2026-03-11 19:49:59 | INFO     | camera:42 | Opening camera index=0 @ 1280×720 30fps
+2026-03-11 19:50:00 | INFO     | camera:60 | Camera opened: 1280×720 @ 30fps
+2026-03-11 19:50:00 | INFO     | dataset_capture:67 | Existing image counts: human=0, apple=0, banana=0, orange=0, cat=0, dog=0, bottle=0, phone=0, keyboard=0, laptop=0
+2026-03-11 19:50:00 | INFO     | dataset_capture:147 | Dataset capture started. Press S to capture, C to change class, Q to quit.
+2026-03-11 19:50:00 | DEBUG    | camera:68 | Camera released.
+2026-03-11 19:50:39 | INFO     | camera:42 | Opening camera index=0 @ 1280×720 30fps
+2026-03-11 19:50:39 | INFO     | camera:60 | Camera opened: 1280×720 @ 30fps
+2026-03-11 19:50:39 | INFO     | dataset_capture:67 | Existing image counts: human=0, apple=0, banana=0, orange=0, cat=0, dog=0, bottle=0, phone=0, keyboard=0, laptop=0
+2026-03-11 19:50:39 | INFO     | dataset_capture:147 | Dataset capture started. Press S to capture, C to change class, Q to quit.
+2026-03-11 19:50:40 | DEBUG    | camera:68 | Camera released.
+2026-03-11 19:53:12 | INFO     | camera:41 | Opening camera index=0 @ 1280×720 30fps
+2026-03-11 19:53:12 | INFO     | camera:59 | Camera opened: 1280×720 @ 30fps
+2026-03-11 19:53:12 | INFO     | dataset_capture:67 | Existing image counts: human=0, apple=0, banana=0, orange=0, cat=0, dog=0, bottle=0, phone=0, keyboard=0, laptop=0
+2026-03-11 19:53:12 | INFO     | dataset_capture:147 | Dataset capture started. Press S to capture, C to change class, Q to quit.
+2026-03-11 19:53:19 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00001.jpg
+2026-03-11 19:53:22 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00002.jpg
+2026-03-11 19:53:42 | INFO     | dataset_capture:74 | Loading pretrained YOLOv8n for auto-labelling …
+2026-03-11 19:54:56 | SUCCESS  | dataset_capture:76 | Auto-label model loaded.
+2026-03-11 19:54:57 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00001.jpg
+2026-03-11 19:54:58 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00002.jpg
+2026-03-11 19:54:59 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00003.jpg
+2026-03-11 19:54:59 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00004.jpg
+2026-03-11 19:55:00 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00001.jpg
+2026-03-11 19:55:01 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00002.jpg
+2026-03-11 19:55:01 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00003.jpg
+2026-03-11 19:55:02 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00004.jpg
+2026-03-11 19:55:02 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00005.jpg
+2026-03-11 19:55:02 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00006.jpg
+2026-03-11 19:55:02 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00007.jpg
+2026-03-11 19:55:03 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00008.jpg
+2026-03-11 19:55:04 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00009.jpg
+2026-03-11 19:55:05 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00010.jpg
+2026-03-11 19:55:05 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00011.jpg
+2026-03-11 19:55:06 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00012.jpg
+2026-03-11 19:55:06 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00013.jpg
+2026-03-11 19:55:06 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00014.jpg
+2026-03-11 19:55:15 | SUCCESS  | dataset_capture:94 | Saved [laptop] → laptop_00001.jpg
+2026-03-11 19:55:26 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00015.jpg
+2026-03-11 19:55:26 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00016.jpg
+2026-03-11 19:55:26 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00017.jpg
+2026-03-11 19:55:26 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00018.jpg
+2026-03-11 19:55:27 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00019.jpg
+2026-03-11 19:55:27 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00020.jpg
+2026-03-11 19:55:29 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00021.jpg
+2026-03-11 19:55:29 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00022.jpg
+2026-03-11 19:55:30 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00023.jpg
+2026-03-11 19:55:30 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00024.jpg
+2026-03-11 19:55:30 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00025.jpg
+2026-03-11 19:55:32 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00026.jpg
+2026-03-11 19:55:33 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00027.jpg
+2026-03-11 19:55:33 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00028.jpg
+2026-03-11 19:55:39 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00029.jpg
+2026-03-11 19:55:39 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00030.jpg
+2026-03-11 19:55:40 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00031.jpg
+2026-03-11 19:55:40 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00032.jpg
+2026-03-11 19:55:40 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00033.jpg
+2026-03-11 19:55:49 | INFO     | dataset_capture:175 | Class → apple
+2026-03-11 19:55:52 | INFO     | dataset_capture:175 | Class → banana
+2026-03-11 19:55:53 | INFO     | dataset_capture:175 | Class → orange
+2026-03-11 19:55:54 | INFO     | dataset_capture:175 | Class → cat
+2026-03-11 19:55:55 | INFO     | dataset_capture:175 | Class → dog
+2026-03-11 19:55:55 | INFO     | dataset_capture:175 | Class → bottle
+2026-03-11 19:55:56 | INFO     | dataset_capture:175 | Class → phone
+2026-03-11 19:55:57 | INFO     | dataset_capture:175 | Class → keyboard
+2026-03-11 19:55:57 | INFO     | dataset_capture:175 | Class → laptop
+2026-03-11 19:55:58 | INFO     | dataset_capture:175 | Class → human
+2026-03-11 19:56:28 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00005.jpg
+2026-03-11 19:56:29 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00006.jpg
+2026-03-11 19:56:31 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00034.jpg
+2026-03-11 19:56:31 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00035.jpg
+2026-03-11 19:56:32 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00036.jpg
+2026-03-11 19:56:32 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00037.jpg
+2026-03-11 19:56:32 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00038.jpg
+2026-03-11 19:56:32 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00039.jpg
+2026-03-11 19:56:34 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00040.jpg
+2026-03-11 19:56:35 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00041.jpg
+2026-03-11 19:56:35 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00042.jpg
+2026-03-11 19:56:35 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00043.jpg
+2026-03-11 19:56:35 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00044.jpg
+2026-03-11 19:56:35 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00045.jpg
+2026-03-11 19:56:53 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00007.jpg
+2026-03-11 19:56:53 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00008.jpg
+2026-03-11 19:57:01 | SUCCESS  | dataset_capture:94 | Saved [dog] → dog_00001.jpg
+2026-03-11 19:57:02 | SUCCESS  | dataset_capture:94 | Saved [dog] → dog_00002.jpg
+2026-03-11 19:57:02 | SUCCESS  | dataset_capture:94 | Saved [dog] → dog_00003.jpg
+2026-03-11 19:57:04 | SUCCESS  | dataset_capture:94 | Saved [dog] → dog_00004.jpg
+2026-03-11 19:57:06 | SUCCESS  | dataset_capture:94 | Saved [dog] → dog_00005.jpg
+2026-03-11 19:57:07 | SUCCESS  | dataset_capture:94 | Saved [dog] → dog_00006.jpg
+2026-03-11 19:57:08 | SUCCESS  | dataset_capture:94 | Saved [dog] → dog_00007.jpg
+2026-03-11 19:57:08 | SUCCESS  | dataset_capture:94 | Saved [dog] → dog_00008.jpg
+2026-03-11 19:57:09 | SUCCESS  | dataset_capture:94 | Saved [dog] → dog_00009.jpg
+2026-03-11 19:57:12 | INFO     | dataset_capture:195 | Capture session complete — 65 total images.
+2026-03-11 19:57:12 | INFO     | dataset_capture:197 |   human       : 2 images
+2026-03-11 19:57:12 | INFO     | dataset_capture:197 |   apple       : 0 images
+2026-03-11 19:57:12 | INFO     | dataset_capture:197 |   banana      : 0 images
+2026-03-11 19:57:12 | INFO     | dataset_capture:197 |   orange      : 0 images
+2026-03-11 19:57:12 | INFO     | dataset_capture:197 |   cat         : 8 images
+2026-03-11 19:57:12 | INFO     | dataset_capture:197 |   dog         : 9 images
+2026-03-11 19:57:12 | INFO     | dataset_capture:197 |   bottle      : 45 images
+2026-03-11 19:57:12 | INFO     | dataset_capture:197 |   phone       : 0 images
+2026-03-11 19:57:12 | INFO     | dataset_capture:197 |   keyboard    : 0 images
+2026-03-11 19:57:12 | INFO     | dataset_capture:197 |   laptop      : 1 images
+2026-03-11 19:57:12 | DEBUG    | camera:67 | Camera released.
+2026-03-11 19:59:10 | INFO     | utils:52 | Using CPU.
+2026-03-11 19:59:10 | WARNING  | dataset_loader:130 | Class 'human' has only 2 images (min=20).
+2026-03-11 19:59:10 | WARNING  | dataset_loader:130 | Class 'apple' has only 0 images (min=20).
+2026-03-11 19:59:10 | WARNING  | dataset_loader:130 | Class 'banana' has only 0 images (min=20).
+2026-03-11 19:59:10 | WARNING  | dataset_loader:130 | Class 'orange' has only 0 images (min=20).
+2026-03-11 19:59:10 | WARNING  | dataset_loader:130 | Class 'cat' has only 8 images (min=20).
+2026-03-11 19:59:10 | WARNING  | dataset_loader:130 | Class 'dog' has only 9 images (min=20).
+2026-03-11 19:59:10 | INFO     | dataset_loader:134 |   bottle      : 45 images ✓
+2026-03-11 19:59:10 | WARNING  | dataset_loader:130 | Class 'phone' has only 0 images (min=20).
+2026-03-11 19:59:10 | WARNING  | dataset_loader:130 | Class 'keyboard' has only 0 images (min=20).
+2026-03-11 19:59:10 | WARNING  | dataset_loader:130 | Class 'laptop' has only 1 images (min=20).
+2026-03-11 19:59:49 | INFO     | camera:41 | Opening camera index=0 @ 1280×720 30fps
+2026-03-11 19:59:49 | INFO     | camera:59 | Camera opened: 1280×720 @ 30fps
+2026-03-11 19:59:49 | INFO     | dataset_capture:67 | Existing image counts: human=2, apple=0, banana=0, orange=0, cat=8, dog=9, bottle=45, phone=0, keyboard=0, laptop=1
+2026-03-11 19:59:49 | INFO     | dataset_capture:147 | Dataset capture started. Press S to capture, C to change class, Q to quit.
+2026-03-11 20:00:10 | INFO     | dataset_capture:74 | Loading pretrained YOLOv8n for auto-labelling …
+2026-03-11 20:00:10 | SUCCESS  | dataset_capture:76 | Auto-label model loaded.
+2026-03-11 20:00:21 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00003.jpg
+2026-03-11 20:00:22 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00004.jpg
+2026-03-11 20:00:23 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00005.jpg
+2026-03-11 20:00:23 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00006.jpg
+2026-03-11 20:00:23 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00007.jpg
+2026-03-11 20:00:24 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00008.jpg
+2026-03-11 20:00:24 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00009.jpg
+2026-03-11 20:00:24 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00010.jpg
+2026-03-11 20:00:24 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00011.jpg
+2026-03-11 20:00:25 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00012.jpg
+2026-03-11 20:00:25 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00013.jpg
+2026-03-11 20:00:25 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00014.jpg
+2026-03-11 20:00:25 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00015.jpg
+2026-03-11 20:00:26 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00016.jpg
+2026-03-11 20:00:26 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00017.jpg
+2026-03-11 20:00:26 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00018.jpg
+2026-03-11 20:00:26 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00019.jpg
+2026-03-11 20:00:27 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00020.jpg
+2026-03-11 20:00:27 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00021.jpg
+2026-03-11 20:00:27 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00022.jpg
+2026-03-11 20:00:27 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00023.jpg
+2026-03-11 20:00:27 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00024.jpg
+2026-03-11 20:00:28 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00025.jpg
+2026-03-11 20:00:28 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00026.jpg
+2026-03-11 20:00:28 | SUCCESS  | dataset_capture:94 | Saved [human] → human_00027.jpg
+2026-03-11 20:00:38 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00009.jpg
+2026-03-11 20:00:55 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00010.jpg
+2026-03-11 20:01:38 | INFO     | dataset_capture:175 | Class → apple
+2026-03-11 20:01:42 | SUCCESS  | dataset_capture:94 | Saved [dog] → dog_00010.jpg
+2026-03-11 20:01:57 | INFO     | dataset_capture:195 | Capture session complete — 93 total images.
+2026-03-11 20:01:57 | INFO     | dataset_capture:197 |   human       : 27 images
+2026-03-11 20:01:57 | INFO     | dataset_capture:197 |   apple       : 0 images
+2026-03-11 20:01:57 | INFO     | dataset_capture:197 |   banana      : 0 images
+2026-03-11 20:01:57 | INFO     | dataset_capture:197 |   orange      : 0 images
+2026-03-11 20:01:57 | INFO     | dataset_capture:197 |   cat         : 10 images
+2026-03-11 20:01:57 | INFO     | dataset_capture:197 |   dog         : 10 images
+2026-03-11 20:01:57 | INFO     | dataset_capture:197 |   bottle      : 45 images
+2026-03-11 20:01:57 | INFO     | dataset_capture:197 |   phone       : 0 images
+2026-03-11 20:01:57 | INFO     | dataset_capture:197 |   keyboard    : 0 images
+2026-03-11 20:01:57 | INFO     | dataset_capture:197 |   laptop      : 1 images
+2026-03-11 20:01:57 | DEBUG    | camera:67 | Camera released.
+2026-03-11 20:02:53 | INFO     | utils:52 | Using CPU.
+2026-03-11 20:02:53 | INFO     | dataset_loader:134 |   human       : 27 images ✓
+2026-03-11 20:02:53 | WARNING  | dataset_loader:130 | Class 'apple' has only 0 images (min=20).
+2026-03-11 20:02:53 | WARNING  | dataset_loader:130 | Class 'banana' has only 0 images (min=20).
+2026-03-11 20:02:53 | WARNING  | dataset_loader:130 | Class 'orange' has only 0 images (min=20).
+2026-03-11 20:02:53 | WARNING  | dataset_loader:130 | Class 'cat' has only 10 images (min=20).
+2026-03-11 20:02:53 | WARNING  | dataset_loader:130 | Class 'dog' has only 10 images (min=20).
+2026-03-11 20:02:53 | INFO     | dataset_loader:134 |   bottle      : 45 images ✓
+2026-03-11 20:02:53 | WARNING  | dataset_loader:130 | Class 'phone' has only 0 images (min=20).
+2026-03-11 20:02:53 | WARNING  | dataset_loader:130 | Class 'keyboard' has only 0 images (min=20).
+2026-03-11 20:02:53 | WARNING  | dataset_loader:130 | Class 'laptop' has only 1 images (min=20).
+2026-03-11 20:05:50 | INFO     | camera:41 | Opening camera index=0 @ 1280×720 30fps
+2026-03-11 20:05:50 | INFO     | camera:59 | Camera opened: 1280×720 @ 30fps
+2026-03-11 20:05:50 | INFO     | dataset_capture:67 | Existing image counts: human=27, apple=0, banana=0, orange=0, cat=10, dog=10, bottle=45, phone=0, keyboard=0, laptop=1
+2026-03-11 20:05:50 | INFO     | dataset_capture:147 | Dataset capture started. Press S to capture, C to change class, Q to quit.
+2026-03-11 20:05:56 | INFO     | dataset_capture:74 | Loading pretrained YOLOv8n for auto-labelling …
+2026-03-11 20:05:56 | SUCCESS  | dataset_capture:76 | Auto-label model loaded.
+2026-03-11 20:05:57 | SUCCESS  | dataset_capture:94 | Saved [orange] → orange_00001.jpg
+2026-03-11 20:06:15 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00011.jpg
+2026-03-11 20:06:18 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00001.jpg
+2026-03-11 20:06:19 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00002.jpg
+2026-03-11 20:06:19 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00003.jpg
+2026-03-11 20:06:19 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00004.jpg
+2026-03-11 20:06:19 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00005.jpg
+2026-03-11 20:06:20 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00006.jpg
+2026-03-11 20:06:20 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00007.jpg
+2026-03-11 20:06:20 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00008.jpg
+2026-03-11 20:06:20 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00009.jpg
+2026-03-11 20:06:20 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00010.jpg
+2026-03-11 20:06:21 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00011.jpg
+2026-03-11 20:06:21 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00012.jpg
+2026-03-11 20:06:21 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00013.jpg
+2026-03-11 20:06:21 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00014.jpg
+2026-03-11 20:06:21 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00015.jpg
+2026-03-11 20:06:21 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00016.jpg
+2026-03-11 20:06:22 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00017.jpg
+2026-03-11 20:06:22 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00018.jpg
+2026-03-11 20:06:22 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00019.jpg
+2026-03-11 20:06:23 | SUCCESS  | dataset_capture:94 | Saved [laptop] → laptop_00002.jpg
+2026-03-11 20:06:23 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00020.jpg
+2026-03-11 20:06:23 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00021.jpg
+2026-03-11 20:06:23 | SUCCESS  | dataset_capture:94 | Saved [laptop] → laptop_00003.jpg
+2026-03-11 20:06:23 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00022.jpg
+2026-03-11 20:06:23 | SUCCESS  | dataset_capture:94 | Saved [laptop] → laptop_00004.jpg
+2026-03-11 20:06:23 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00023.jpg
+2026-03-11 20:06:24 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00024.jpg
+2026-03-11 20:06:24 | SUCCESS  | dataset_capture:94 | Saved [keyboard] → keyboard_00025.jpg
+2026-03-11 20:06:34 | SUCCESS  | dataset_capture:94 | Saved [dog] → dog_00011.jpg
+2026-03-11 20:06:35 | SUCCESS  | dataset_capture:94 | Saved [dog] → dog_00012.jpg
+2026-03-11 20:06:36 | SUCCESS  | dataset_capture:94 | Saved [dog] → dog_00013.jpg
+2026-03-11 20:06:36 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00012.jpg
+2026-03-11 20:06:36 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00013.jpg
+2026-03-11 20:06:37 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00014.jpg
+2026-03-11 20:06:37 | SUCCESS  | dataset_capture:94 | Saved [dog] → dog_00014.jpg
+2026-03-11 20:06:37 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00015.jpg
+2026-03-11 20:06:52 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00046.jpg
+2026-03-11 20:06:55 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00016.jpg
+2026-03-11 20:06:55 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00017.jpg
+2026-03-11 20:06:55 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00018.jpg
+2026-03-11 20:06:55 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00019.jpg
+2026-03-11 20:06:56 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00020.jpg
+2026-03-11 20:06:56 | SUCCESS  | dataset_capture:94 | Saved [cat] → cat_00021.jpg
+2026-03-11 20:07:00 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00047.jpg
+2026-03-11 20:07:01 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00048.jpg
+2026-03-11 20:07:01 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00049.jpg
+2026-03-11 20:07:01 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00050.jpg
+2026-03-11 20:07:01 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00051.jpg
+2026-03-11 20:07:02 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00052.jpg
+2026-03-11 20:07:02 | SUCCESS  | dataset_capture:94 | Saved [bottle] → bottle_00053.jpg
+2026-03-11 20:07:19 | INFO     | dataset_capture:195 | Capture session complete — 145 total images.
+2026-03-11 20:07:19 | INFO     | dataset_capture:197 |   human       : 27 images
+2026-03-11 20:07:19 | INFO     | dataset_capture:197 |   apple       : 0 images
+2026-03-11 20:07:19 | INFO     | dataset_capture:197 |   banana      : 0 images
+2026-03-11 20:07:19 | INFO     | dataset_capture:197 |   orange      : 1 images
+2026-03-11 20:07:19 | INFO     | dataset_capture:197 |   cat         : 21 images
+2026-03-11 20:07:19 | INFO     | dataset_capture:197 |   dog         : 14 images
+2026-03-11 20:07:19 | INFO     | dataset_capture:197 |   bottle      : 53 images
+2026-03-11 20:07:19 | INFO     | dataset_capture:197 |   phone       : 0 images
+2026-03-11 20:07:19 | INFO     | dataset_capture:197 |   keyboard    : 25 images
+2026-03-11 20:07:19 | INFO     | dataset_capture:197 |   laptop      : 4 images
+2026-03-11 20:07:19 | DEBUG    | camera:67 | Camera released.
